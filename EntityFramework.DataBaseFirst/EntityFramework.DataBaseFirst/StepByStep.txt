@@ -1,0 +1,13 @@
+﻿ASP NET MVC with Entity Framework DataBase First - Tutorial
+
+1- Create a new empty we project with MVC structure
+
+2- Add a Model ADO.NET Entity Class
+
+3- Choose EF designer from Database
+
+4- Set your Database location
+
+5- Choose the DataBase you wanna use
+
+6- In the end, your Model Class with the properties and a Context will be created and ready to use
